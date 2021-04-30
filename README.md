@@ -1,5 +1,4 @@
-# hello-world
-TKH Pre-work 2021 for Christopher Singleton
+# TKH Pre-work 2021 for Christopher Singleton
 
 Hi!
 
