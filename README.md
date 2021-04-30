@@ -10,3 +10,4 @@ My interests include gaming, music, cooking and performance arts.
 
 While I don't care for social media, I can be found on Linked in: https://www.linkedin.com/in/christopher-singleton-83a87058/
 
+![](IMG_6913%20copy.jpg)
