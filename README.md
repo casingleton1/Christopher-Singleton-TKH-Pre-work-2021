@@ -8,6 +8,6 @@ Currently, I'm a flight attendant. I am eager in learn the ins and out of cyber 
 
 My interests include gaming, music, cooking and performance arts.
 
-While I don't care for social media, I can be found on Linked in:  URL.from_text(u'https://www.linkedin.com/in/christopher-singleton-83a87058/')
+While I don't care for social media, I can be found on Linked in:  <a href="https://www.linkedin.com/in/christopher-singleton-83a87058/">
 
 ![](IMG_6913%20copy.jpg)
